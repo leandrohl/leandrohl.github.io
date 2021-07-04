@@ -1,6 +1,6 @@
 
 export const TrainingService = () => {
-    const url = "http://localhost:5000/posts/get"
+    const url = "https://arenacross.herokuapp.com/posts/get"
 
     return fetch(url, {
         method: 'GET'
