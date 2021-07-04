@@ -1,0 +1,142 @@
+
+.overlay{
+    background:  rgba(0, 0, 0, 0.8);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerLogin {
+    display: flex;
+
+    background: var(--white);
+    width: 80%;
+    max-width: 1000px;
+    border-radius: 5px;
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    position: relative;
+
+    height: 30rem;
+}
+
+
+.containerLogin img{
+    width: 50%;
+    height: 100%;
+}
+
+.containerLogin > button{
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    background: transparent;
+}
+
+.formLogin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+}
+
+.formLogin > h1{
+    font-weight: bold;
+    font-size: 1.5rem;
+
+    color: var(--gray-dark);
+
+    margin-bottom: 2.5rem;
+}
+
+.formLogin > h1 span{
+    color: var(--orange);
+}
+
+.formLogin > div{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+    margin-bottom: 0.8rem;
+}
+
+.formLogin > div label{
+    text-align: left;
+    width: 6rem;
+    font-weight: 700;
+}
+
+.formLogin > div input  {
+    border: 0;
+    border-bottom: solid 1px #484848;
+    
+    width:  10rem;
+    color: var(--gray-dark);
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+
+.formLogin > div select {
+    border: 0;
+    border-bottom: solid 1px #484848;
+    width:  10rem;
+    color: var(--gray-dark);
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+
+.formLogin > button{
+    border: 0;
+    border-radius: 2px;
+    background: var(--orange);
+    
+    color: var(--gray-dark);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+
+    margin-top: 1.5rem;
+    padding: 0.6rem 3rem;
+
+}
+
+.containerSuccessed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background: transparent;
+    width: 100%;
+    max-width: 500px;
+}
+
+.containerSuccessed strong {
+    margin-top: 0.875rem;
+
+    font-size: 1.8rem;
+    color: var(--white);
+}
+
+@media (max-width:800px){
+
+    .containerLogin img{
+        display: none;
+    }
+    
+    .formLogin{
+        width: 100%;
+    }
+    
+} 
