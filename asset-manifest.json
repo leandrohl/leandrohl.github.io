@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b43bd387.chunk.css",
+    "main.js": "/static/js/main.c4f391d3.chunk.js",
+    "main.js.map": "/static/js/main.c4f391d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.43376a87.js",
+    "runtime-main.js.map": "/static/js/runtime-main.43376a87.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.93dc9694.chunk.js": "/static/js/2.93dc9694.chunk.js",
+    "static/js/2.93dc9694.chunk.js.map": "/static/js/2.93dc9694.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b43bd387.chunk.css.map": "/static/css/main.b43bd387.chunk.css.map",
+    "static/js/2.93dc9694.chunk.js.LICENSE.txt": "/static/js/2.93dc9694.chunk.js.LICENSE.txt",
+    "static/media/1.fd68b467.jpg": "/static/media/1.fd68b467.jpg",
+    "static/media/2.52a2b64b.jpg": "/static/media/2.52a2b64b.jpg",
+    "static/media/3.491e1432.jpg": "/static/media/3.491e1432.jpg",
+    "static/media/4.f7b4837e.jpg": "/static/media/4.f7b4837e.jpg",
+    "static/media/5.beb1f053.jpeg": "/static/media/5.beb1f053.jpeg",
+    "static/media/6.ff3771ba.jpg": "/static/media/6.ff3771ba.jpg",
+    "static/media/alcool-em-gel.cef57300.svg": "/static/media/alcool-em-gel.cef57300.svg",
+    "static/media/crossfit.ec0282a0.png": "/static/media/crossfit.ec0282a0.png",
+    "static/media/garrafa-de-agua.600353d2.svg": "/static/media/garrafa-de-agua.600353d2.svg",
+    "static/media/login-imagem.da3adeb6.png": "/static/media/login-imagem.da3adeb6.png",
+    "static/media/logo.4707e2d5.png": "/static/media/logo.4707e2d5.png",
+    "static/media/mascara.683f2e2c.svg": "/static/media/mascara.683f2e2c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43376a87.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.93dc9694.chunk.js",
+    "static/css/main.b43bd387.chunk.css",
+    "static/js/main.c4f391d3.chunk.js"
+  ]
+}
